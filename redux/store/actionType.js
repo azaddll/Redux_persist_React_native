@@ -1,0 +1,3 @@
+export const SETUSERNAME = 'SETUSERNAME';
+export const SETUSERAGE = 'SETUSERAGE';
+
